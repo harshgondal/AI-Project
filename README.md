@@ -1,4 +1,4 @@
-The project aims to develop an AI-based solution for solving a mathematical equation involving 6 
+**The project** aims to develop an AI-based solution for solving a mathematical equation involving 6 
 variables, (a,b,c,d,e,f). The equation involves constraints related to the sum of all the 6 variables. 
 The problem requires finding natural number values for all the variables while satisfying the given 
 equality.
@@ -9,7 +9,7 @@ Where x represents a constant value that defines the desired sum of the six vari
 solution space is restricted to natural number values for each variable, ensuring the integrity of the 
 mathematical model.
 
-The objectives of the project is to-
+**The objectives of the project is to-**
 
 
 • Develop an AI-powered solver capable of finding values for six variables (a, b, c, d, e, f) 
