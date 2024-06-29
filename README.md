@@ -8,6 +8,8 @@ solution space is restricted to natural number values for each variable, ensurin
 mathematical model.
 
 The objectives of the project is to-
+
+
 • Develop an AI-powered solver capable of finding values for six variables (a, b, c, d, e, f) 
 that satisfy the given mathematical equation: a+2b+3c+4d+5e+6f = x.
 • Allowing users to input the desired sum x and visualize the computed values of the 
