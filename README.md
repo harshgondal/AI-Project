@@ -29,6 +29,8 @@ body of knowledge in AI-driven optimization techniques and their practical appli
 mathematical problem-solving
 
 ## How to Run
-**1. Clone the repository
+****1. Clone the repository
+
 2. Navigate to the project directory
-3. Run the script**
+   
+4. Run the script****
