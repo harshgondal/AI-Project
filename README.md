@@ -27,3 +27,8 @@ equations which showcases its versatility in different scenarios.
 • Document the methodology, results, and insights gained from the project to contribute to the 
 body of knowledge in AI-driven optimization techniques and their practical applications in 
 mathematical problem-solving
+
+## How to Run
+**1. Clone the repository
+2. Navigate to the project directory
+3. Run the script**
